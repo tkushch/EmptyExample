@@ -1,5 +1,5 @@
 package com.example.emptyexample;
-
+// new
 public class TV {
     int a = 0;
     int b = 0;
